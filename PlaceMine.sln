@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceMine", "PlaceMine\PlaceMine.csproj", "{D2705F46-E072-4C38-BB45-D85B1949A408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2705F46-E072-4C38-BB45-D85B1949A408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2705F46-E072-4C38-BB45-D85B1949A408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2705F46-E072-4C38-BB45-D85B1949A408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2705F46-E072-4C38-BB45-D85B1949A408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00221852-5A71-4A93-A2B6-10A1265276BA}
+	EndGlobalSection
+EndGlobal
